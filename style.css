@@ -19,7 +19,7 @@
 
 .menu {
          flex: 5%;
-         background-color: peach;
+         background-color: mediumpink;
          display: flex;
 }
 
@@ -41,7 +41,7 @@
 
 .footer {
          flex: 10%;
-         background-color: peach;
+         background-color: mediumpink;
 }
 
 h1 {color: red; text-align:center;}
