@@ -22,7 +22,7 @@ td {
 }
 .header{
    flex: 15%;
-  background:url("images/Gemini_Generated_Image_3z5kki3z5kki3z5k.png") center/100%;
+  background:url("images/banner.png") center/100%;
   aspect-ratio: 6/1;
  }
 .menu{
