@@ -27,7 +27,7 @@ td {
  }
 .menu{
   flex: 5%;
-  background-color: darkgray;
+  background-color: lightpink;
   color: white;
   display: flex;
 }
